@@ -76,6 +76,10 @@ Skills involved:
 - Sensor interfacing
 - Team-based engineering development
 
+### Automatic Tool Changer Cam Box (ATC) / Roller Gear Cam 
+-Modeled and assembled a cam-based indexing mechanism for an automatic tool changer system using CAD (SolidWorks).
+-Analyzed the mechanism’s operation and motion sequence to understand indexing behavior and positioning accuracy.
+
 ### Smart Traffic Light Intersection (2024)
 Team project using Arduino to simulate an intelligent traffic system.
 
