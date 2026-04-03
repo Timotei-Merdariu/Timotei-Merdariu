@@ -66,8 +66,7 @@ As a team we are working on – Electrical Team:
 - Contributing to the electrical architecture of the robot
 - Designing and reviewing the electrical schematic
 - Integrating sensors, motor drivers, and communication interfaces
-- Working on encoder signal acquisition from the drive motors
-- Implementing communication between an Arduino Uno and a Raspberry Pi for reliable encoder reading and system coordination
+- *Implementing communication between an Arduino Uno and a Raspberry Pi for reliable encoder reading and system coordination
 
 Skills involved:
 - Embedded systems integration
